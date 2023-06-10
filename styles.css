@@ -95,10 +95,11 @@ a:hover {
 }
 
 #about {
-  background-color: #f9f9f9;
+  background-color: navy;
   padding: 40px;
   border-radius: 8px;
   margin-bottom: 40px;
+  text-align: center; /* Added text-align: center */
 }
 
 #about p {
@@ -144,4 +145,4 @@ a:hover {
 #projects .project h3 {
   font-size: 24px;
   margin-bottom: 10px;
-  color: #555;
+  color: #555
